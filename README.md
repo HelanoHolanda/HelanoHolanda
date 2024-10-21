@@ -2,10 +2,7 @@
 
 Olá, me chamo Helano Holanda ! 
 
-Sou dev front end que me apaixonei pelo mundo da tecnologia. 
-Estou a cada dia buscando melhorar meu código e minhas soft skills.
-Agora estou voltando meus estudos para o mundo back end, entender de fato como as coisas do lado do servidor funcionam.
-Meu objetivo é tornar-me full-stack.
+Comecei minha jornada como desenvolvedor front-end, apaixonado por criar interfaces intuitivas e experiências incríveis para os usuários. A cada dia, buscava aprimorar minhas habilidades técnicas e soft skills. A curiosidade me impulsionou a explorar o mundo do back-end, desvendando a complexidade e a lógica por trás das aplicações. Hoje, como desenvolvedor full-stack, tenho a satisfação de construir soluções completas, desde a interface até a infraestrutura, e contribuir para projetos inovadores. A cada novo desafio, a paixão pela tecnologia só aumenta, me motivando a continuar aprendendo e crescendo profissionalmente.
 
 
 ## Ferramentas e Tecnologias
