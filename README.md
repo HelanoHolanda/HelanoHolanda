@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-Olá, me chamo Helano Holanda ! 
-
-Comecei minha jornada como desenvolvedor front-end, apaixonado por criar interfaces intuitivas e experiências incríveis para os usuários. A cada dia, buscava aprimorar minhas habilidades técnicas e soft skills. A curiosidade me impulsionou a explorar o mundo do back-end, desvendando a complexidade e a lógica por trás das aplicações. Hoje, como desenvolvedor full-stack, tenho a satisfação de construir soluções completas, desde a interface até a infraestrutura, e contribuir para projetos inovadores. A cada novo desafio, a paixão pela tecnologia só aumenta, me motivando a continuar aprendendo e crescendo profissionalmente.
+Olá! Eu sou o Helano Holanda 👋
+Desenvolvedor Full Stack | React • Node.js • TypeScript
+Construo aplicações web escaláveis e robustas com 2+ anos de experiência no desenvolvimento de sistemas internos governamentais. Apaixonado por código limpo, arquitetura sólida e boas práticas de engenharia de software.
+💼 Atualmente: Desenvolvedor Full Stack no Governo do Estado do Ceará
+🎯 Foco: Construir sistemas que crescem sem quebrar
+🌱 Estudando: AWS, Kubernetes, Microserviços, Clean Architecture
+📍 Localização: Fortaleza, CE - Brasil
+🌎 Disponível para: Oportunidades remotas (UTC-3)
 
 
 ## Ferramentas e Tecnologias
